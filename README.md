@@ -1,4 +1,4 @@
-# BMP280 — Sample Code
+# BMP280 — barometric pressure & altitude sensor
 
 Sample sketch for the **[Adafruit BMP280 Barometric Pressure / Altitude Sensor](https://circuit.rocks/products/barometric-pressure-and-altitude-sensor-adafruit-bmp280-i2c-or-spi)**, sold by [Circuitrocks](https://circuit.rocks/).
 
