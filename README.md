@@ -57,7 +57,7 @@ The sketch tries 0x77 first, then 0x76 — works with either.
 
 ## Datasheet
 
-[BMP280 datasheet (Bosch, PDF)](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp280-ds001.pdf)
+[BMP280 datasheet & pinout (docs.circuit.rocks)](https://docs.circuit.rocks/sensors/bmp280/)
 
 ## Troubleshooting
 
